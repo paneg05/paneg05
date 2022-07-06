@@ -29,19 +29,18 @@ const whoIAm = {
 
 ## Tecnologies and tools:
 
-HTML   
-
+HTML  
 CSS
-JS
+JS  
 Bootstrap
-Sass
-node.JS (express, sequelize, socket.io, pg, mysql2, ejs, .env...)
-Mysql
-postgrees
-Mongodb
-C++
-java
-
+Sass  
+node.JS (express, sequelize, socket.io, pg, mysql2, ejs, .env...)  
+Mysql  
+postgrees  
+Mongodb  
+C++  
+java  
+  
 And loading...
 
 <!--
