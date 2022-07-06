@@ -7,7 +7,7 @@ const whoIAm = {
 	hobbies [
 		"studing",
 		"coding",
-		"studyng ore"
+		"studyng more"
 	]
 
 	currentCurrency(){
@@ -26,6 +26,23 @@ const whoIAm = {
 	}
 }
 ```
+
+## Tecnologies and tools:
+
+HTML
+CSS
+JS
+Bootstrap
+Sass
+node.JS (express, sequelize, socket.io, pg, mysql2, ejs, .env...)
+Mysql
+postgrees
+Mongodb
+C++
+java
+
+And loading...
+
 <!--
 **paneg05/paneg05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
