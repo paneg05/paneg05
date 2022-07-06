@@ -43,7 +43,7 @@ java
   
 And loading...
 
-[](https://github.com/paneg05)
+[paneg05 status](![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=paneg05&show_icons=true))
 
 <!--
 **paneg05/paneg05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
