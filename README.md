@@ -29,7 +29,8 @@ const whoIAm = {
 
 ## Tecnologies and tools:
 
-HTML
+HTML   
+
 CSS
 JS
 Bootstrap
